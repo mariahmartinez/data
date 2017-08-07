@@ -4,4 +4,4 @@ bcrypt id.bfe <&6
 chmod 600 id
 ssh-add -D
 ssh-add -t 9h id
-rm -P id
+rm id
